@@ -1,0 +1,7 @@
+{
+  "full_name": "Vehbi Sinan Tunalioglu",
+  "email": "vst@vsthost.com",
+  "github_username": "vst",
+  "project_name": "function",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}
