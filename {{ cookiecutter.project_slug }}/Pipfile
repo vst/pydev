@@ -18,7 +18,7 @@ tox = "*"
 
 click = "==7.0"
 fastapi = "==0.52.0"
-pydantic = {extras = ["email"],version = "==1.4"}
+pydantic = {extras = ["email"],version = "==1.6.2"}
 uvicorn = "*"
 
 [requires]
